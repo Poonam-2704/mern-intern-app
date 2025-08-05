@@ -9,6 +9,7 @@ Welcome to **Basti ki Pathshala**, a community-driven internship and volunteer r
 Watch this short video to see how the website works, including user registration and admin functionalities:
 
 
+https://drive.google.com/file/d/1Lnqp52mDp8biyu5YhhvOjhSCeFk9u16D/view?usp=sharing
 
 ---
 
@@ -122,18 +123,4 @@ This project is licensed under the MIT License.
 
 ---
 
-## Contact
 
-For any questions, please contact: info@bastikipathshala.org
-
----
-
-*Thank you for visiting Basti ki Pathshala! Together, we build brighter futures.*
-```
-
-[3] https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/
-[4] https://projectai.in/projects/ff0a9fd7-ffd5-4b82-be91-74a3da6f46f4/tasks/3390d0ae-7164-4e8a-80a8-90b3ba5b96d2
-[5] https://dev.to/rohit19060/how-to-write-stunning-github-readme-md-template-provided-5b09
-[6] https://git.iris.nitk.ac.in/Vandana_2601/mern-application/-/blob/main/README.md
-[7] https://socket.dev/npm/package/mern-stack-app-template
-[8] https://stackblitz.com/edit/github-h5hhdf
