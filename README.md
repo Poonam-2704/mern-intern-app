@@ -1,6 +1,3 @@
-Here is a professional README template tailored for your MERN intern-volunteer portal project, which includes a section to embed or link a demo video showing how the website works.
-
-```markdown
 # Basti ki Pathshala - MERN Intern/Volunteer Portal
 
 Welcome to **Basti ki Pathshala**, a community-driven internship and volunteer registration portal built with the MERN stack (MongoDB, Express, React, Node.js). This platform aims to empower young people by connecting them with meaningful internship and volunteer opportunities while providing an easy-to-use admin interface for managing applicants.
@@ -11,11 +8,7 @@ Welcome to **Basti ki Pathshala**, a community-driven internship and volunteer r
 
 Watch this short video to see how the website works, including user registration and admin functionalities:
 
-[![Basti ki Pathshala Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-*Click the image above to watch the demo on YouTube.*
-
-> **Note:** Replace `YOUR_VIDEO_ID` with the actual YouTube video ID.
 
 ---
 
@@ -138,26 +131,6 @@ For any questions, please contact: info@bastikipathshala.org
 *Thank you for visiting Basti ki Pathshala! Together, we build brighter futures.*
 ```
 
-### How to add your video
-
-- Upload your demo video to YouTube or Vimeo.
-- Replace the `YOUR_VIDEO_ID` placeholder in the image link and href with your uploaded video ID.
-- Alternatively, you can embed a video directly in GitHub README using HTML (GitHub supports limited HTML):
-
-```html
-
-  
-    
-  
-
-```
-
-Replace `YOUR_VIDEO_ID` throughout with your actual YouTube video ID.
-
-If you want, I can help you draft a concise README tailored exactly to your project files and tech stack as well!
-
-[1] https://github.com/UFWebApps/MERN-Template/blob/master/README.md
-[2] https://github.com/amazingandyyy/mern/blob/main/README.md
 [3] https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/
 [4] https://projectai.in/projects/ff0a9fd7-ffd5-4b82-be91-74a3da6f46f4/tasks/3390d0ae-7164-4e8a-80a8-90b3ba5b96d2
 [5] https://dev.to/rohit19060/how-to-write-stunning-github-readme-md-template-provided-5b09
